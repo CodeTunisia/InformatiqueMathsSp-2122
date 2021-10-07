@@ -7,7 +7,7 @@ def empiler(p,x):
     '''
     ajouter une élément à la pile
     '''
-    return p.append(x)
+    p.append(x)
 def hauteur(p):
     '''
     Donner la taille de la pile
